@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=_hexcode&height=300&section=header&text=Hiiiii%20&fontColor=FFFFFF&fontSize=90)
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binwoojoo&show_icons=true&theme=dark )
+![header](https://capsule-render.vercel.app/api?type=wave&color=_hexcode&height=300&section=header&text=Hiiiii%20&fontColor=FFFFFF&fontSize=90)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binwoojoo&show_icons=true&theme=dark )
 </div>
 <!---
 binwoojoo/binwoojoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
